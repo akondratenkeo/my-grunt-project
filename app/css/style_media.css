@@ -1,0 +1,52 @@
+@import url('mobile/pre-mobile.css');
+
+@import url('mobile/login_1024.css');
+@import url('mobile/security_1024.css');
+@import url('mobile/password-restore_1024.css');
+@import url('mobile/user-registration_1024.css');
+@import url('mobile/questions-verify_1024.css');
+
+@import url('mobile/join-wellcome_1024.css');
+@import url('mobile/join-step1_1024.css');
+@import url('mobile/join-step2_1024.css');
+@import url('mobile/join-step3_1024.css');
+@import url('mobile/join-step4_1024.css');
+@import url('mobile/join-step5_1024.css');
+@import url('mobile/join-finish.css');
+
+@import url('mobile/join-bstep1_1024.css');
+@import url('mobile/join-bstep2_1024.css');
+@import url('mobile/join-bstep3_1024.css');
+@import url('mobile/join-bstep4_1024.css');
+
+@import url('mobile/password-restore-pop-up_1024.css');
+
+@import url('mobile/profile_1024.css');
+@import url('mobile/profile-edit_1024.css');
+
+@import url('mobile/order-index_1024.css');
+@import url('mobile/order-index-cancellation-popup_1024.css');
+
+@import url('mobile/payment-index_1024.css');
+@import url('mobile/payment-change_1024.css');
+@import url('mobile/payment-edit_1024.css');
+@import url('mobile/payment-invoices_1024.css');
+@import url('mobile/payment-balance_1024.css');
+@import url('mobile/payment-info_1024.css');
+@import url('mobile/payment-delete-product-popup_1024.css');
+@import url('mobile/payment-index-add-product_1024.css');
+
+@import url('mobile/driver-index_1024.css');
+
+@import url('mobile/preferences-index_1024.css');
+@import url('mobile/preferences-add-address-pop-up_1024.css');
+
+@import url('mobile/contact_1024.css');
+
+@import url('mobile/reservation_1024.css');
+@import url('mobile/reservation-car-info_1024.css');
+@import url('mobile/reservation-my-reservation.css');
+
+@import url('mobile/date-picker_1024.css');
+
+

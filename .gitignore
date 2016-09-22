@@ -1,0 +1,13 @@
+/bower_components
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
