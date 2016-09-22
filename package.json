@@ -1,21 +1,22 @@
 {
-    "name": "my-grunt-project",
-    "version": "0.1.0",
-    "description": "my-grunt-project",
-    "author": "a-kondratenko",
-    "license": "MIT",
-    "devDependencies": {
-        "grunt": "^1.0.1",
-        "grunt-contrib-clean": "^1.0.0",
-        "grunt-contrib-concat": "^1.0.1",
-        "grunt-contrib-copy": "^1.0.0",
-        "grunt-contrib-cssmin": "^1.0.2",
-        "grunt-contrib-imagemin": "^1.0.1",
-        "grunt-contrib-jshint": "^1.0.0",
-        "grunt-contrib-uglify": "^2.0.0",
-        "grunt-contrib-watch": "^1.0.0",
-        "grunt-sass": "^1.2.1",
-        "load-grunt-tasks": "^3.5.2",
-        "time-grunt": "^1.4.0"
-    }
+  "name": "my-grunt-project",
+  "version": "0.1.0",
+  "description": "my-grunt-project",
+  "author": "a-kondratenko",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1",
+    "grunt-wiredep": "^3.0.1",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  }
 }

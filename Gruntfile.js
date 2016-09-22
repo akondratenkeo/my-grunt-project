@@ -20,6 +20,13 @@ module.exports = function(grunt) {
 
         pkg: grunt.file.readJSON('package.json'),
 
+        // Automatically inject Bower components into the app
+        wiredep: {
+            app: {
+                src: 'app/index222.html'
+            }
+        },
+
         concat: {
             libs: {
                 files: {
